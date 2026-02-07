@@ -1,6 +1,3 @@
 *.o
-dwm
-st
-dwmblocks
 config.h.orig
 *.rej
